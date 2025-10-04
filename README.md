@@ -146,10 +146,9 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-10-04 203912-1.png>) 
+![alt text](<Screenshot 2025-10-04 203912.png>)
 
 ## HOMEPAGE:
-x
  ![alt text](<Screenshot 2025-10-04 203726.png>)
 
 ## RESULT:
